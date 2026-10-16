@@ -83,7 +83,7 @@ nav a { /* Descendant Selector */
 
 section { /* Element Selector */
     background-color: white;
-    width: 90%;
+    width: 89% ;
     max-width: 1100px;
     margin: 25px auto;
     padding: 25px;
