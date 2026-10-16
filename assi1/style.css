@@ -105,11 +105,11 @@ a:hover { /* Pseudo-Class Selector: hover */
 }
 
 a:visited { /* Pseudo-Class Selector: visited */
-    color: purple;
+    color: rgb(104, 5, 104);
 }
 
 nav a:visited { /* Descendant and Pseudo-Class Selectors */
-    color: rgb(52, 163, 214);
+    color: rgb(104, 5, 104);
 }
 
 a:active { /* Pseudo-Class Selector: active */
